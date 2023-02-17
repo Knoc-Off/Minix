@@ -1,0 +1,297 @@
+{
+  "active_profile": 0,
+  "active_modpack": 0,
+  "profiles": [
+    {
+      "name": "creators pack",
+      "output_dir": "/home/knoff/Projects/minecraft/mods",
+      "game_version": "1.19.2",
+      "mod_loader": "Fabric",
+      "mods": [
+        {
+          "name": "Another Furniture",
+          "identifier": {
+            "ModrinthProject": "ulloLmqG"
+          }
+        },
+        {
+          "name": "AppleSkin",
+          "identifier": {
+            "ModrinthProject": "EsAfCjCV"
+          }
+        },
+        {
+          "name": "Architectury API",
+          "identifier": {
+            "ModrinthProject": "lhGA9TYQ"
+          }
+        },
+        {
+          "name": "Architectury API (Fabric/Forge)",
+          "identifier": {
+            "CurseForgeProject": 419699
+          }
+        },
+        {
+          "name": "bad packets",
+          "identifier": {
+            "ModrinthProject": "ftdbN0KK"
+          }
+        },
+        {
+          "name": "Better Mount HUD",
+          "identifier": {
+            "ModrinthProject": "kqJFAPU9"
+          }
+        },
+        {
+          "name": "BetterF3",
+          "identifier": {
+            "ModrinthProject": "8shC1gFX"
+          }
+        },
+        {
+          "name": "Carry On",
+          "identifier": {
+            "ModrinthProject": "joEfVgkn"
+          }
+        },
+        {
+          "name": "CC: Restitched",
+          "identifier": {
+            "ModrinthProject": "eldBwa5V"
+          }
+        },
+        {
+          "name": "Chisel Refabricated",
+          "identifier": {
+            "CurseForgeProject": 551763
+          }
+        },
+        {
+          "name": "Cloth Config API",
+          "identifier": {
+            "ModrinthProject": "9s6osm5g"
+          }
+        },
+        {
+          "name": "Cloth Config API (Fabric/Forge)",
+          "identifier": {
+            "CurseForgeProject": 348521
+          }
+        },
+        {
+          "name": "Continuity",
+          "identifier": {
+            "ModrinthProject": "1IjD5062"
+          }
+        },
+        {
+          "name": "Create Chunkloading",
+          "identifier": {
+            "CurseForgeProject": 494206
+          }
+        },
+        {
+          "name": "Create Crafts & Additions",
+          "identifier": {
+            "CurseForgeProject": 439890
+          }
+        },
+        {
+          "name": "Create Fabric",
+          "identifier": {
+            "ModrinthProject": "Xbc0uyRg"
+          }
+        },
+        {
+          "name": "Create: Crystal Clear Refabricated",
+          "identifier": {
+            "ModrinthProject": "28pbjFvD"
+          }
+        },
+        {
+          "name": "Create: Extended Flywheels Fabric",
+          "identifier": {
+            "CurseForgeProject": 750818
+          }
+        },
+        {
+          "name": "Cull Leaves",
+          "identifier": {
+            "ModrinthProject": "GNxdLCoP"
+          }
+        },
+        {
+          "name": "Customizable Elytra",
+          "identifier": {
+            "ModrinthProject": "L25fOeGq"
+          }
+        },
+        {
+          "name": "Diggus Maximus",
+          "identifier": {
+            "ModrinthProject": "S4LrRnI7"
+          }
+        },
+        {
+          "name": "EMI",
+          "identifier": {
+            "ModrinthProject": "fRiHVvU7"
+          }
+        },
+        {
+          "name": "Enchanted Vertical Slabs",
+          "identifier": {
+            "ModrinthProject": "TG1cHkRf"
+          }
+        },
+        {
+          "name": "Fabric API",
+          "identifier": {
+            "ModrinthProject": "P7dR8mSH"
+          }
+        },
+        {
+          "name": "Indium",
+          "identifier": {
+            "ModrinthProject": "Orvt0mRa"
+          }
+        },
+        {
+          "name": "Iris Shaders",
+          "identifier": {
+            "ModrinthProject": "YL57xq9U"
+          }
+        },
+        {
+          "name": "Just Enough Items (JEI)",
+          "identifier": {
+            "CurseForgeProject": 238222
+          }
+        },
+        {
+          "name": "LambDynamicLights",
+          "identifier": {
+            "ModrinthProject": "yBW8D80W"
+          }
+        },
+        {
+          "name": "Litematica",
+          "identifier": {
+            "CurseForgeProject": 308892
+          }
+        },
+        {
+          "name": "Lithium",
+          "identifier": {
+            "ModrinthProject": "gvQqBUqZ"
+          }
+        },
+        {
+          "name": "LuckPerms",
+          "identifier": {
+            "ModrinthProject": "Vebnzrzj"
+          }
+        },
+        {
+          "name": "MaLiLib",
+          "identifier": {
+            "CurseForgeProject": 303119
+          }
+        },
+        {
+          "name": "MidnightControls",
+          "identifier": {
+            "ModrinthProject": "bXX9h73M"
+          }
+        },
+        {
+          "name": "MiniHUD",
+          "identifier": {
+            "CurseForgeProject": 244260
+          }
+        },
+        {
+          "name": "Mod Menu",
+          "identifier": {
+            "ModrinthProject": "mOgUt4GM"
+          }
+        },
+        {
+          "name": "More Slabs Stairs and Walls",
+          "identifier": {
+            "ModrinthProject": "bdBzXqbS"
+          }
+        },
+        {
+          "name": "No Chat Reports",
+          "identifier": {
+            "ModrinthProject": "qQyHxfxd"
+          }
+        },
+        {
+          "name": "Paladin's Furniture Mod",
+          "identifier": {
+            "ModrinthProject": "SISz7Qd3"
+          }
+        },
+        {
+          "name": "Patchouli",
+          "identifier": {
+            "ModrinthProject": "nU0bVIaL"
+          }
+        },
+        {
+          "name": "Roughly Enough Items (REI)",
+          "identifier": {
+            "ModrinthProject": "nfn13YXA"
+          }
+        },
+        {
+          "name": "Simple Voice Chat",
+          "identifier": {
+            "ModrinthProject": "9eGKb6K1"
+          }
+        },
+        {
+          "name": "Sodium",
+          "identifier": {
+            "ModrinthProject": "AANobbMI"
+          }
+        },
+        {
+          "name": "Starlight (Fabric)",
+          "identifier": {
+            "ModrinthProject": "H8CaAYZC"
+          }
+        },
+        {
+          "name": "Syncmatica",
+          "identifier": {
+            "ModrinthProject": "bfneejKo"
+          }
+        },
+        {
+          "name": "Tweakeroo",
+          "identifier": {
+            "CurseForgeProject": 297344
+          }
+        },
+        {
+          "name": "ViaFabric",
+          "identifier": {
+            "ModrinthProject": "YlKdE5VK"
+          }
+        },
+        {
+          "name": "WTHIT",
+          "identifier": {
+            "ModrinthProject": "6AQIaxuO"
+          }
+        }
+      ]
+    }
+  ],
+  "modpacks": []
+}
